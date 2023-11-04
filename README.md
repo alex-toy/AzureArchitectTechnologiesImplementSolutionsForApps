@@ -18,6 +18,23 @@
 - see instance count increase
 <img src="/pictures/autoscale1.png" title="autoscale web app"  width="900">
 
+### Deployment Slot
+
+- add slot
+<img src="/pictures/slot.png" title="add slot"  width="900">
+
+- create a publish profile to the staging slot
+<img src="/pictures/slot1.png" title="add slot"  width="900">
+
+- publish
+<img src="/pictures/slot2.png" title="add slot"  width="900">
+
+- swap staging and production
+<img src="/pictures/slot3.png" title="add slot"  width="900">
+
+- see that staging has been moved to production
+<img src="/pictures/slot4.png" title="add slot"  width="900">
+
 
 
 ## Web Jobs
